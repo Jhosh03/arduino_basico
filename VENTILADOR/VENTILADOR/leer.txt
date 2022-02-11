@@ -1,0 +1,4 @@
+Para visualizar la simulacion en proteus:
+1. abra el codigo llamado "ventilador" en el IDE y compile el codigo.
+2. copie el pat del archivo.hex 
+3. cargue la ruta del archivo .hex al microcontrolador de arduino. 
